@@ -1,1 +1,7 @@
 = GC-Scripts-Java
+
+- simple and useful java scripts
+
+'''
+
+&copy; 2021 Nurul-GC
